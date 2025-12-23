@@ -1,0 +1,4 @@
+target/
+*.java~
+node_modules/
+.vscode/
